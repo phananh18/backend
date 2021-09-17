@@ -1,0 +1,9 @@
+export const SERVER_RESPONSE_CONSTANTS={
+    SERVER_ERROR_CODE:400,
+    SEVER_ERROR_STATUS:'ERROR',
+    SEVER_ERROR_CONTENT:'Somethings went wrong',
+
+    SERVER_SUCCESS_CODE:200,
+    SERVER_SUCCESS_STATUS:'SUCCESS',
+    SERVER_SUCCESS_CONTENT:'Your request has been submitted successfully',
+}
